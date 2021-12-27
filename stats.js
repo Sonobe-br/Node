@@ -1,5 +1,5 @@
-const os = require('os')
-const log = require('./logger')
+const os = require('os');
+const log = require('./logger');
 
 const { freemem, totalmem } = os;
 
@@ -15,7 +15,7 @@ setInterval(() => {
         total: `${total} MB`,
         usage: `${percents} %`
     
-    }
+    };
 
     console.clear();
     console.log('======= PC STATS =======');

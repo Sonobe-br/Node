@@ -2,7 +2,7 @@ const EventEmitter = require('events');
 const fs = require('fs');
 const path = require('path');
 
-const emitter = new EventEmitter()
+const emitter = new EventEmitter();
 
 emitter.on('log', (message) => {
     
@@ -10,7 +10,7 @@ emitter.on('log', (message) => {
         
         if (err) throw err
     
-    }) 
+    }); 
 
 });
 
@@ -18,7 +18,7 @@ function log(message){
 
     emitter.emit('log', message)
 
-}
+};
 
 module.exports = log;
 
