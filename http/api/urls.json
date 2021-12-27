@@ -21,10 +21,6 @@
       "url": "http://Discord.com"
     },
     {
-      "name": "Google",
-      "url": "http://History.com"
-    },
-    {
       "name": "Microsoft",
       "url": "http://microsoft.com"
     },
@@ -39,6 +35,10 @@
     {
       "name": "Linkedin",
       "url": "http://linkedin.com"
+    },
+    {
+      "name": "Mackenzie",
+      "url": "http://Mackenzie.com"
     }
   ]
 }
