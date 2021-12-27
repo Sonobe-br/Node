@@ -21,7 +21,7 @@
       "url": "http://Discord.com"
     },
     {
-      "name": "Goole",
+      "name": "Google",
       "url": "http://History.com"
     },
     {
@@ -31,6 +31,14 @@
     {
       "name": "CNN",
       "url": "http://CNN.com"
+    },
+    {
+      "name": "Alura",
+      "url": "http://alura.com"
+    },
+    {
+      "name": "Linkedin",
+      "url": "http://linkedin.com"
     }
   ]
 }
